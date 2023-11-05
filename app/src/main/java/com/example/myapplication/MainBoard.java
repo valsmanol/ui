@@ -37,7 +37,7 @@ public class MainBoard extends AppCompatActivity {
             }
         });
 //////////////////////////////////////////////////////////////////////////////////////
-
+//
 
 // when you press the inport logo or text inport or arrow logo inport from main board you go to setting board
 
