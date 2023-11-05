@@ -28,7 +28,8 @@ public class MapPage extends AppCompatActivity {
                 Intent intent = new Intent(MapPage.this, MainBoard.class);
                 startActivity(intent);
             }
-//aaAA
+//A
+            //A
         });
     }
 }
